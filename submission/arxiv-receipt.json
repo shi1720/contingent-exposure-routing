@@ -1,0 +1,18 @@
+{
+  "submission_id": "8118285",
+  "title": "Contingent Exposure Routing for Financial AI: Outage Risk and the Cost of Indivisible Decisions",
+  "author": "Shivam Gupta",
+  "primary_category": "cs.LG",
+  "cross_lists": [],
+  "license": "CC BY 4.0",
+  "status_observed": "submitted",
+  "confirmation_observed": "Article submitted",
+  "recorded_utc": "2026-09-23T06:57:32.107413+00:00",
+  "source_archive_sha256": "d5cbf96609ebb617b6d47c346e7f2f600494f3f2100f8f5c584c0211341f19d0",
+  "local_manuscript_sha256": "7fb6c2b3285d130650cf2a61e3d5536443f06efc5bebeadf1e3c741b9b571959",
+  "server_pdf_pages": 15,
+  "server_compiler": "pdfLaTeX / TeX Live 2025",
+  "server_pdf_visually_checked": true,
+  "public_identifier": null,
+  "note": "Submission confirmation is not an acceptance or public announcement."
+}

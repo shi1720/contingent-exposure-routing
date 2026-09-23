@@ -17,7 +17,7 @@ When financial applications switch model endpoints during an outage, request ava
 - 48 automated checks, including exhaustive assignments, accounting identities, cascade checks, and lower-bound comparisons.
 - Six reproducible figures, three manuscript tables, and a [literature/novelty audit](notes/literature-audit.md).
 
-The work targets the contributed-lecture program at SIAM FM27. No conference acceptance, journal peer review, or arXiv identifier is claimed. Submission state is recorded in [submission/status.md](submission/status.md).
+The manuscript was submitted to arXiv in cs.LG on 23 September 2026 (submission 8118285; moderation and public identifier pending). The work also targets the contributed-lecture program at SIAM FM27. No conference acceptance or journal peer review is claimed. Submission state is recorded in [submission/status.md](submission/status.md).
 
 ## Results in context
 
