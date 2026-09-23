@@ -1,0 +1,313 @@
+{
+  "seed": 1721406,
+  "outage": [
+    0,
+    1
+  ],
+  "count_risk": 0.41745212898056216,
+  "cer_risk": 0.3974512193616888,
+  "relative_reduction": 0.047911863972802116,
+  "numerical_lower_bound": 0.3970482424275803,
+  "relative_gap_to_bound": 0.0010149319177052973,
+  "solver_residual": 1.8723513096518962e-13,
+  "endpoint_counts": [
+    0,
+    0,
+    12,
+    12,
+    12,
+    12
+  ],
+  "swaps": 6,
+  "routes": [
+    {
+      "institution": 0,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 1,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 2,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 3,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 4,
+      "primary": 0,
+      "baseline": 4,
+      "cer": 3
+    },
+    {
+      "institution": 5,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 6,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 7,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 8,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 9,
+      "primary": 0,
+      "baseline": 5,
+      "cer": 4
+    },
+    {
+      "institution": 10,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 11,
+      "primary": 1,
+      "baseline": 4,
+      "cer": 3
+    },
+    {
+      "institution": 12,
+      "primary": 1,
+      "baseline": 3,
+      "cer": 5
+    },
+    {
+      "institution": 13,
+      "primary": 0,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 14,
+      "primary": 1,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 15,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 16,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 17,
+      "primary": 0,
+      "baseline": 3,
+      "cer": 4
+    },
+    {
+      "institution": 18,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 19,
+      "primary": 0,
+      "baseline": 5,
+      "cer": 2
+    },
+    {
+      "institution": 20,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 21,
+      "primary": 0,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 22,
+      "primary": 1,
+      "baseline": 3,
+      "cer": 4
+    },
+    {
+      "institution": 23,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 24,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 25,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 26,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 27,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 28,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 29,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 30,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 31,
+      "primary": 1,
+      "baseline": 2,
+      "cer": 5
+    },
+    {
+      "institution": 32,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 33,
+      "primary": 1,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 34,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 35,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 36,
+      "primary": 0,
+      "baseline": 4,
+      "cer": 2
+    },
+    {
+      "institution": 37,
+      "primary": 5,
+      "baseline": 5,
+      "cer": 5
+    },
+    {
+      "institution": 38,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 39,
+      "primary": 0,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 40,
+      "primary": 1,
+      "baseline": 2,
+      "cer": 3
+    },
+    {
+      "institution": 41,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 42,
+      "primary": 4,
+      "baseline": 4,
+      "cer": 4
+    },
+    {
+      "institution": 43,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 44,
+      "primary": 3,
+      "baseline": 3,
+      "cer": 3
+    },
+    {
+      "institution": 45,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 46,
+      "primary": 2,
+      "baseline": 2,
+      "cer": 2
+    },
+    {
+      "institution": 47,
+      "primary": 1,
+      "baseline": 4,
+      "cer": 4
+    }
+  ],
+  "units": "normalized squared price displacement; synthetic network"
+}

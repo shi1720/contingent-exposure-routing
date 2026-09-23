@@ -1,0 +1,90 @@
+\begin{thebibliography}{12}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Boyd and Vandenberghe(2004)]{boyd2004}
+Stephen Boyd and Lieven Vandenberghe.
+\newblock \emph{Convex Optimization}.
+\newblock Cambridge University Press, 2004.
+\newblock URL \url{https://web.stanford.edu/~boyd/cvxbook/}.
+
+\bibitem[Cont and Schaanning(2017)]{cont2017}
+Rama Cont and Eric Schaanning.
+\newblock Fire sales, indirect contagion and systemic stress testing.
+\newblock Working Paper 2/2017, Norges Bank, 2017.
+\newblock URL
+  \url{https://www.norges-bank.no/contentassets/bb47f56979fe4adf9249d1c0ab55c7d1/working_paper_2_17.pdf}.
+
+\bibitem[{Financial Stability Board}(2024)]{fsb2024}
+{Financial Stability Board}.
+\newblock The financial stability implications of artificial intelligence.
+\newblock Technical report, Financial Stability Board, 2024.
+\newblock URL \url{https://www.fsb.org/uploads/P14112024.pdf}.
+
+\bibitem[Gandhi et~al.(2006)Gandhi, Khuller, Parthasarathy, and
+  Srinivasan]{gandhi2006}
+Rajiv Gandhi, Samir Khuller, Srinivasan Parthasarathy, and Aravind Srinivasan.
+\newblock Dependent rounding and its applications to approximation algorithms.
+\newblock \emph{Journal of the ACM}, 53\penalty0 (3):\penalty0 324--360, 2006.
+\newblock \doi{10.1145/1147954.1147956}.
+
+\bibitem[Greenwood et~al.(2015)Greenwood, Landier, and Thesmar]{greenwood2015}
+Robin Greenwood, Augustin Landier, and David Thesmar.
+\newblock Vulnerable banks.
+\newblock \emph{Journal of Financial Economics}, 115\penalty0 (3):\penalty0
+  471--485, 2015.
+\newblock \doi{10.1016/j.jfineco.2014.11.006}.
+
+\bibitem[Hao et~al.(2026)Hao, Zeng, Wei, and Jing]{hao2026}
+Sai Hao, Hao Zeng, Hongxin Wei, and Bingyi Jing.
+\newblock {RACER}: Risk-aware calibrated efficient routing for large language
+  models, 2026.
+\newblock URL \url{https://arxiv.org/abs/2603.06616}.
+
+\bibitem[Kleinberg and Raghavan(2021)]{kleinberg2021}
+Jon Kleinberg and Manish Raghavan.
+\newblock Algorithmic monoculture and social welfare.
+\newblock \emph{Proceedings of the National Academy of Sciences}, 118\penalty0
+  (22):\penalty0 e2018340118, 2021.
+\newblock \doi{10.1073/pnas.2018340118}.
+
+\bibitem[Leytes(2026)]{leytes2026}
+Alex Leytes.
+\newblock Cyber-financial contagion: Modeling the propagation of an {AI} vendor
+  compromise through the banking system, 2026.
+\newblock URL \url{https://arxiv.org/abs/2609.10350}.
+
+\bibitem[Markovic-Voronov et~al.(2026)Markovic-Voronov, Behdin, Xu, Zhou, Wang,
+  and Mazumder]{markovic2026}
+Jelena Markovic-Voronov, Kayhan Behdin, Yuanda Xu, Zhengze Zhou, Zhipeng Wang,
+  and Rahul Mazumder.
+\newblock Robust batch-level query routing for large language models under cost
+  and capacity constraints, 2026.
+\newblock URL \url{https://arxiv.org/abs/2603.26796}.
+
+\bibitem[Meng and Chen(2026)]{meng2026}
+Shuchen Meng and Xupeng Chen.
+\newblock Artificial intelligence and systemic risk: A unified model of
+  performative prediction, algorithmic herding, and cognitive dependency in
+  financial markets, 2026.
+\newblock URL \url{https://arxiv.org/abs/2604.03272}.
+
+\bibitem[Ong et~al.(2024)Ong, Almahairi, Wu, Chiang, Wu, Gonzalez, Kadous, and
+  Stoica]{ong2024}
+Isaac Ong, Amjad Almahairi, Vincent Wu, Wei-Lin Chiang, Tianhao Wu, Joseph~E.
+  Gonzalez, M.~Waleed Kadous, and Ion Stoica.
+\newblock {RouteLLM}: Learning to route {LLM}s with preference data, 2024.
+\newblock URL \url{https://arxiv.org/abs/2406.18665}.
+
+\bibitem[Raghavan and Thompson(1987)]{raghavan1987}
+Prabhakar Raghavan and Clark~D. Thompson.
+\newblock Randomized rounding: A technique for provably good algorithms and
+  algorithmic proofs.
+\newblock \emph{Combinatorica}, 7\penalty0 (4):\penalty0 365--374, 1987.
+\newblock URL
+  \url{https://www.cs.auckland.ac.nz/~cthombor/Pubs/RandomRounding/RandomRounding1987.pdf}.
+
+\end{thebibliography}

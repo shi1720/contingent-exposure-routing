@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite the manuscript and repository."
+title: "Contingent Exposure Routing for Financial AI: Outage Risk and the Cost of Indivisible Decisions"
+authors:
+  - family-names: Gupta
+    given-names: Shivam
+    affiliation: Independent Researcher
+version: 0.1.0
+date-released: 2026-09-23
+url: "https://github.com/shi1720/contingent-exposure-routing"
+repository-code: "https://github.com/shi1720/contingent-exposure-routing"
+license: MIT
+keywords:
+  - financial mathematics
+  - systemic risk
+  - model routing
+  - operational resilience
+  - randomized rounding

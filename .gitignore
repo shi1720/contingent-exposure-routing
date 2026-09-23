@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+tmp/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.blg
+*.egg-info/
+paper/main.pdf
+.env*
+*secret*
+submission/private/
+notes/sources/

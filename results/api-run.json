@@ -1,0 +1,37 @@
+{
+  "observations": 1024,
+  "requests": 1025,
+  "tasks": 256,
+  "test_tasks": 128,
+  "estimated_cost_usd": 0.2142621,
+  "invalid": 59,
+  "first_call": "2026-09-23T06:00:20.440426+00:00",
+  "last_call": "2026-09-23T06:03:13.044657+00:00",
+  "calibration_cosine_second_moment": [
+    [
+      1.0,
+      0.9026746103161213,
+      0.9989638897801923,
+      0.9280447291913634
+    ],
+    [
+      0.9026746103161213,
+      1.0,
+      0.9031945794230862,
+      0.848263895945849
+    ],
+    [
+      0.9989638897801923,
+      0.9031945794230862,
+      1.0,
+      0.9290387622865843
+    ],
+    [
+      0.9280447291913634,
+      0.848263895945849,
+      0.9290387622865843,
+      1.0
+    ]
+  ],
+  "protocol_note": "Primary: unregularized calibration second moment. Diagonal, equal-variance and 0.1-trace ridge comparisons are secondary diagnostics specified after collection, before policy evaluation."
+}

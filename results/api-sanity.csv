@@ -1,0 +1,17 @@
+model,diagnostic,expected,value,valid,correct
+gpt-4.1-nano-2025-04-14,addition,4.0,4.0,True,True
+gpt-4.1-nano-2025-04-14,no_fee,30000.0,-10000.0,True,False
+gpt-4.1-nano-2025-04-14,explicit_formula,182893.34,229.94,True,False
+gpt-4.1-nano-2025-04-14,worked_formula,182893.34,232.94,True,False
+gpt-4.1-mini-2025-04-14,addition,4.0,4.0,True,True
+gpt-4.1-mini-2025-04-14,no_fee,30000.0,30000.0,True,True
+gpt-4.1-mini-2025-04-14,explicit_formula,182893.34,212682.88,True,False
+gpt-4.1-mini-2025-04-14,worked_formula,182893.34,75894.88,True,False
+gpt-4o-mini-2024-07-18,addition,4.0,4.0,True,True
+gpt-4o-mini-2024-07-18,no_fee,30000.0,0.0,True,False
+gpt-4o-mini-2024-07-18,explicit_formula,182893.34,197.73,True,False
+gpt-4o-mini-2024-07-18,worked_formula,182893.34,1950.0,True,False
+gpt-4.1-2025-04-14,addition,4.0,4.0,True,True
+gpt-4.1-2025-04-14,no_fee,30000.0,30000.0,True,True
+gpt-4.1-2025-04-14,explicit_formula,182893.34,202013.13,True,False
+gpt-4.1-2025-04-14,worked_formula,182893.34,19713.41,True,False

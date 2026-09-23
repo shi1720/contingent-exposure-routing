@@ -1,0 +1,18 @@
+{
+  "title": "Contingent Exposure Routing for Financial AI: Outage Risk and the Cost of Indivisible Decisions",
+  "author": "Shivam Gupta",
+  "affiliation": "Independent Researcher",
+  "email": "shivam1720406@gmail.com",
+  "country": "India",
+  "timezone": "Asia/Kolkata",
+  "format": "Contributed lecture",
+  "classifications": [
+    "24 Economics and Finance (2400)",
+    "12 Optimization and Operations Research (1200)",
+    "52 Machine Learning and AI (5200)"
+  ],
+  "keywords": "systemic risk; model failover; financial AI; market impact",
+  "abstract_characters": 1250,
+  "abstract_tex_characters": 1253,
+  "deadline": "2026-12-15 23:59 America/New_York"
+}
