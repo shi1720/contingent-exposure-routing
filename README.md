@@ -87,3 +87,7 @@ The script prompts for a key without echo, or reads `OPENAI_API_KEY`. Credential
 The synthetic statistics average removal scenarios within each independent network before bootstrapping networks. API inference resamples held-out tasks with endpoint responses paired and policies fixed. These are different estimands. Secondary comparisons and tail checks are identified as exploratory or diagnostic. The repository does not claim empirical market calibration, patentability, production readiness, or that a scoped literature search proves universal novelty.
 
 Code is MIT licensed. The manuscript and constructed research data may be shared under CC BY 4.0; third-party papers are not redistributed. See [CITATION.cff](CITATION.cff) for citation metadata.
+
+## Journal preparation verification (18 October 2026)
+
+The all-endpoints-eligible relaxation now omits an empty forbidden-entry equality. This preserves the mathematical feasible set and avoids CVXPY versions rejecting a zero-length constraint. The existing exhaustive quota test covers this case. All 48 tests passed with Python 3.12.14, CVXPY 1.9.3 and Clarabel 0.11.1. Offline archived-response analysis and the summary calculation were rerun; all six resulting report files were byte-identical to the released reports. No new API calls or empirical market data were collected.

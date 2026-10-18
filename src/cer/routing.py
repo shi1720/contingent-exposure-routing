@@ -31,7 +31,10 @@ def count_balanced(primary, survivors, rng):
 def fractional_optimum(A, S, allowed, quotas=None):
     n, k = allowed.shape
     Q = cp.Variable((n, k))
-    constraints = [Q >= 0, cp.sum(Q, axis=1) == 1, Q[~allowed] == 0]
+    constraints = [Q >= 0, cp.sum(Q, axis=1) == 1]
+    # CVXPY rejects a zero-length constraint when every endpoint is eligible.
+    if np.any(~allowed):
+        constraints.append(Q[~allowed] == 0)
     if quotas is not None:
         constraints += [cp.sum(Q, axis=0) == quotas]
     # Rescale objective for solver stability without altering its minimizer.
